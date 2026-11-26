@@ -4,4 +4,6 @@ Project Title: Study tips
 
 Description: Practice problems
 
+# Git Best Practices
+
 # Helpful Learning Resources
