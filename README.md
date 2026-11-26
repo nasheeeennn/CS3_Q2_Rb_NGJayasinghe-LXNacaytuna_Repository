@@ -1,7 +1,7 @@
 # CS3_Q2_Rb_NGJayasinghe-LXNacaytuna_Repository
 
-#Project Title: Study tips
+Project Title: Study tips
 
-#Description: Practice problems
+Description: Practice problems
 
-#Helpful Learning Resources
+Helpful Learning Resources
